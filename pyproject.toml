@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "test-portal-gun"
-version = "0.2.0"
+version = "0.3.0"
 description = ""
 authors = ["Alireza <alirezaaraby5@gmail.com>"]
 readme = "README.md"

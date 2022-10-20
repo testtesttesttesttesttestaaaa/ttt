@@ -16,4 +16,4 @@ jobs:
         with:
           pypi_token: ${{ secrets.TEST_PYPI_TOKEN }}
           repository_name: "testpypi"
-          repository_url: test.pypi.org
+          repository_url: "https://test.pypi.org/legacy/"
